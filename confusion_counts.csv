@@ -1,0 +1,6 @@
+ML Model Name,TN,FP,FN,TP
+Logistic Regression,71,1,3,39
+Decision Tree,70,2,7,35
+KNN,71,1,4,38
+Naive Bayes,72,0,7,35
+Support Vector Machine,72,0,3,39
